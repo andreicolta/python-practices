@@ -18,5 +18,7 @@ if result is 0:
 else:
     print("The number is not devided by 2")
 
+var = True.__doc__
+
 
 
