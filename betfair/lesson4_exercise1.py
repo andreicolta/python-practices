@@ -20,7 +20,7 @@ def string_len(my_string):
 
 def reverse_string(input_str):
     reversed=""
-    for a in range(string_len(input_str) -1,-1,- 1) :
+    for a in range(string_len(input_str) -1,-1,-1) :
         print(a)
         reversed += input_str[a]
 
